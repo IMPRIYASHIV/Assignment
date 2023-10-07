@@ -11,7 +11,7 @@ this.(brand);
 this.cost=cost;
 }
 public static void main(String args[]) {
-Mobile m = new Mobile("SamsungsA30",10000);
+Mobile m = new Mobile("Apple",10000);
 System.out.println("Brand: "+m.brand);
 System.out.println("Cost: "+m.cost);
 }
