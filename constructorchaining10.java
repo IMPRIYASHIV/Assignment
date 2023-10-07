@@ -12,7 +12,6 @@ this.cost=cost;
 }
 public static void main(String args[]) {
 Mobile m = new Mobile("Samsungs23",50000);
-
 System.out.println("Brand: "+m.brand);
 System.out.println("Cost: "+m.cost);
 }
